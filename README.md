@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# ETHA Protocl V2
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This repository contains the core smart contracts for the ETHA V2 Protocol.
 
-Try running some of the following tasks:
+## Licensing
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+The primary license for ETHA V2 Protocol V3 Core is the GNU General Public License (`GPL-3.0`), see [`LICENSE`](./LICENSE).
